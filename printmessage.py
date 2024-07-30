@@ -1,1 +1,1 @@
-print ''print message''
+print("print message")
